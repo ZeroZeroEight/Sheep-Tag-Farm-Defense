@@ -1,0 +1,8 @@
+{
+  "mapFolder": "stfd.w3x",
+  "launchArgs": [
+    "-launch",
+    "-windowmode",
+    "windowed"
+  ]
+}

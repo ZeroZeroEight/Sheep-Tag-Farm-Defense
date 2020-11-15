@@ -1,0 +1,13 @@
+[Misc]
+DamageBonusPierce=0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+DamageBonusSiege=1.00,0.50,1.00,15.00,1.00,0.00,0.05,1.50
+DisplayEnemyInventory=1
+FrostMoveSpeedDecrease=0.2
+MaxUnitSpeed=522.0
+MinUnitSpeed=1.0
+TradingIncLarge=0
+TradingIncSmall=0
+UpgradeRefundRate=1.0
+UpkeepGoldTax=0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+UpkeepUsage=10000,10000,10000,10000,10000,10000,10000,10000,10000,10000
+

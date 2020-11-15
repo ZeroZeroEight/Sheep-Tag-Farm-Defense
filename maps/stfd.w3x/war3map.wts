@@ -1,0 +1,3837 @@
+﻿STRING 1
+{
+Sheep Tag Farm Defense 2.0
+}
+
+STRING 2
+{
+Any
+}
+
+STRING 3
+{
+Survive 17 levels of sheep killing beasts. Good Luck.
+}
+
+STRING 4
+{
+Madhatters
+}
+
+STRING 5
+{
+Player 1
+}
+
+STRING 7
+// Units: h004 (Invisible Farm), Hotkey (Hotkey)
+{
+X
+}
+
+STRING 8
+// Abilities: A000 (Remove Farm), Researchhotkey (Hotkey - Learn)
+{
+X
+}
+
+STRING 9
+// Abilities: A000 (Remove Farm), Name (Name)
+{
+Remove Farm
+}
+
+STRING 10
+// Abilities: A000 (Remove Farm), Tip (Tooltip - Normal)
+{
+Cancel Farm - |cffffcc00X|r
+}
+
+STRING 11
+// Abilities: A000 (Remove Farm), Ubertip (Tooltip - Normal - Extended)
+{
+Destroys the last farm your sheep built. If the farm is not yet completed, it will cancel for a 50% gold refund. Manually canceling a farm awards 75% gold.
+}
+
+STRING 14
+{
+Player 2
+}
+
+STRING 15
+{
+Player 3
+}
+
+STRING 16
+{
+Player 4
+}
+
+STRING 17
+{
+Player 5
+}
+
+STRING 18
+{
+Player 6
+}
+
+STRING 19
+{
+Player 7
+}
+
+STRING 20
+{
+Player 8
+}
+
+STRING 25
+// Units: h000 (Farm), Ubertip (Tooltip - Extended)
+{
+A wall of wool
+}
+
+STRING 26
+// Units: h001 (Aura Farm), Name (Name)
+{
+Aura Farm
+}
+
+STRING 27
+// Units: h001 (Aura Farm), Tip (Tooltip - Basic)
+{
+Build |cffffcc00A|rura Farm
+}
+
+STRING 28
+// Units: h001 (Aura Farm), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 29
+// Units: h001 (Aura Farm), Ubertip (Tooltip - Extended)
+{
+As the farm but has a couple auras that increase sheep and farm's HP regeneration rate, movement speed, and more.
+}
+
+STRING 31
+// Units: h002 (Saving Farm), Name (Name)
+{
+Saving Farm
+}
+
+STRING 34
+// Units: h002 (Saving Farm), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 35
+// Units: h003 (Hard Farm), Name (Name)
+{
+Hard Farm
+}
+
+STRING 36
+// Units: h003 (Hard Farm), Tip (Tooltip - Basic)
+{
+Build Ha|cffffcc00r|rd Farm
+}
+
+STRING 37
+// Units: h003 (Hard Farm), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 38
+// Units: h003 (Hard Farm), Ubertip (Tooltip - Extended)
+{
+As the Farm, but 4 times bigger and 4 times more resistant.
+}
+
+STRING 39
+// Units: h004 (Invisible Farm), Name (Name)
+{
+Invisible Farm
+}
+
+STRING 40
+// Units: h004 (Invisible Farm), Tip (Tooltip - Basic)
+{
+Build Invisible Farm - |cffffcc00X|r
+}
+
+STRING 41
+// Units: h004 (Invisible Farm), Ubertip (Tooltip - Extended)
+{
+Like the farm, but invisible. Can't be hit by raiders that don't have the Magic Sentry ability.
+}
+
+STRING 42
+// Abilities: A000 (Remove Farm), Hotkey (Hotkey - Normal)
+{
+X
+}
+
+STRING 43
+// Units: h005 (Tiny Farm), Ubertip (Tooltip - Extended)
+{
+A farm that is just as small as a sheep.
+}
+
+STRING 44
+// Units: h005 (Tiny Farm), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 45
+// Units: h005 (Tiny Farm), Name (Name)
+{
+Tiny Farm
+}
+
+STRING 46
+// Units: h005 (Tiny Farm), Tip (Tooltip - Basic)
+{
+Build |cffffcc00T|riny Farm
+}
+
+STRING 47
+// Units: h006 (Upgraded Farm), Name (Name)
+{
+Upgraded Farm
+}
+
+STRING 48
+// Units: h006 (Upgraded Farm), Tip (Tooltip - Basic)
+{
+Build Up|cffffcc00g|rraded Farm
+}
+
+STRING 49
+// Units: h006 (Upgraded Farm), Hotkey (Hotkey)
+{
+G
+}
+
+STRING 50
+// Units: h006 (Upgraded Farm), Ubertip (Tooltip - Extended)
+{
+As the farm but double hit points.
+}
+
+STRING 51
+// Units: h007 (Wide Farm), Name (Name)
+{
+Wide Farm
+}
+
+STRING 52
+// Units: h007 (Wide Farm), Tip (Tooltip - Basic)
+{
+Build |cffffcc00W|ride Farm
+}
+
+STRING 53
+// Units: h007 (Wide Farm), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 54
+// Units: h007 (Wide Farm), Ubertip (Tooltip - Extended)
+{
+As the Farm, but 3 times bigger and 3 times more resistant.
+}
+
+STRING 55
+// Units: n000 (Stack Farm), Name (Name)
+{
+Stack Farm
+}
+
+STRING 56
+// Units: n000 (Stack Farm), Tip (Tooltip - Basic)
+{
+Build |cffffcc00S|rtack Farm
+}
+
+STRING 57
+// Units: n000 (Stack Farm), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 58
+// Units: n000 (Stack Farm), Ubertip (Tooltip - Extended)
+{
+A farm that can be built anywhere.
+}
+
+STRING 59
+{
+Sheep
+}
+
+STRING 60
+// Units: u000 (Sheep), Ubertip (Tooltip - Extended)
+{
+Add Player to Sheep Team.
+}
+
+STRING 61
+// Units: u000 (Sheep), Tip (Tooltip - Basic)
+{
+|cffffcc00S|rheep
+}
+
+STRING 62
+// Units: u000 (Sheep), Description (Description)
+{
+These furry creatures are fun to slaughter!
+}
+
+STRING 63
+// Units: u000 (Sheep), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 64
+// Units: n001 (Destroy), Name (Name)
+{
+Destroy
+}
+
+STRING 65
+// Units: n001 (Destroy), Tip (Tooltip - Basic)
+{
+|cffffcc00D|restroy
+}
+
+STRING 66
+// Units: n001 (Destroy), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 67
+// Units: n001 (Destroy), Ubertip (Tooltip - Extended)
+{
+Destroys the building.
+}
+
+STRING 68
+// Units: h008 (Missile), Name (Name)
+{
+Missile
+}
+
+STRING 69
+// Units: h008 (Missile), Tip (Tooltip - Basic)
+{
+Missile
+}
+
+STRING 70
+// Units: h008 (Missile), Ubertip (Tooltip - Extended)
+{
+Missile
+}
+
+STRING 72
+// Units: E000 (Shepherd), Propernames (Proper Names)
+{
+Old Mc Donald,Big Bad Wolf,Scruffy,Sheep Dog
+}
+
+STRING 73
+// Units: E000 (Shepherd), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 74
+// Units: E000 (Shepherd), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 75
+// Units: E000 (Shepherd), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 76
+// Units: e001 (Sentry Farm), Name (Name)
+{
+Sentry Farm
+}
+
+STRING 77
+// Units: e001 (Sentry Farm), Tip (Tooltip - Basic)
+{
+Build S|cffffcc00e|rntry Farm
+}
+
+STRING 78
+// Units: e001 (Sentry Farm), Ubertip (Tooltip - Extended)
+{
+As the other farms but with the ability to see invisible units.
+}
+
+STRING 79
+// Units: e001 (Sentry Farm), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 80
+// Units: e002 (Sheep Spirit), Name (Name)
+{
+Sheep Spirit
+}
+
+STRING 81
+// Units: e002 (Sheep Spirit), Ubertip (Tooltip - Extended)
+{
+These little wisps are the remains of sheep who were cruelly and harshly slaughtered by the orcish shepards. They have lost all of their furryness.
+}
+
+STRING 82
+// Units: e002 (Sheep Spirit), Hotkey (Hotkey)
+{
+O
+}
+
+STRING 83
+// Units: e002 (Sheep Spirit), Tip (Tooltip - Basic)
+{
+Train |cffffcc00O|rbserver
+}
+
+STRING 97
+// Units: E003 (Golem), Name (Name)
+{
+Golem
+}
+
+STRING 98
+// Units: E003 (Golem), Propernames (Proper Names)
+{
+Rocky
+}
+
+STRING 99
+// Units: E003 (Golem), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 100
+// Units: E003 (Golem), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 101
+// Units: E003 (Golem), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 102
+// Items: I000 (Professional Damage), Name (Name)
+{
+Professional Damage
+}
+
+STRING 103
+// Items: I000 (Professional Damage), Description (Description)
+{
++100 Damage
+}
+
+STRING 104
+// Items: I001 (Professional Attack Speed), Name (Name)
+{
+Professional Attack Speed
+}
+
+STRING 105
+// Items: I001 (Professional Attack Speed), Description (Description)
+{
++10% Attack Speed
+}
+
+STRING 106
+// Items: I002 (Heroic Damage), Name (Name)
+{
+Heroic Damage
+}
+
+STRING 107
+// Items: I002 (Heroic Damage), Description (Description)
+{
++300 Damage
+}
+
+STRING 108
+// Items: I003 (Heroic Attack Speed), Name (Name)
+{
+Heroic Attack Speed
+}
+
+STRING 109
+// Items: I003 (Heroic Attack Speed), Description (Description)
+{
++15% Attack Speed
+}
+
+STRING 112
+// Items: I005 (Heroic Vision), Name (Name)
+{
+Heroic Vision
+}
+
+STRING 113
+// Items: I005 (Heroic Vision), Description (Description)
+{
+This unit can see invisible units
+}
+
+STRING 114
+// Abilities: A001 (Item Damage Bonus), EditorSuffix (Editor Suffix)
+{
+(+100)
+}
+
+STRING 115
+// Abilities: A002 (Item Attack Speed Bonus), EditorSuffix (Editor Suffix)
+{
+(15%)
+}
+
+STRING 116
+// Abilities: A003 (Item Damage Bonus), EditorSuffix (Editor Suffix)
+{
+(+300)
+}
+
+STRING 117
+// Abilities: A004 (Item Attack Speed Bonus), EditorSuffix (Editor Suffix)
+{
+(10%)
+}
+
+STRING 118
+// Abilities: A005 (Item Move Speed Bonus), EditorSuffix (Editor Suffix)
+{
+(+42)
+}
+
+STRING 119
+// Abilities: A006 (Item True Sight), Name (Name)
+{
+Item True Sight
+}
+
+STRING 120
+// Units: h002 (Saving Farm), Tip (Tooltip - Basic)
+{
+Build Saving Farm [|cffffcc00C|r]
+}
+
+STRING 121
+// Units: h002 (Saving Farm), Ubertip (Tooltip - Extended)
+{
+Adds 1 gold to your every 4 second income, which resets to 2 when you die.
+}
+
+STRING 122
+// Units: h009 (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 123
+// Units: h009 (Dummy), Tip (Tooltip - Basic)
+{
+Missile
+}
+
+STRING 124
+// Units: h009 (Dummy), Ubertip (Tooltip - Extended)
+{
+Missile
+}
+
+STRING 127
+// Items: I007 (Heroic Summon), Name (Name)
+{
+Heroic Summon
+}
+
+STRING 129
+// Items: I008 (Heroic Splash), Name (Name)
+{
+Heroic Splash
+}
+
+STRING 131
+// Items: I009 (Professional Splash), Name (Name)
+{
+Professional Splash
+}
+
+STRING 133
+// Items: I00A (Amateur Splash), Name (Name)
+{
+Amateur Splash
+}
+
+STRING 135
+// Abilities: A007 (Item Move Speed Bonus), EditorSuffix (Editor Suffix)
+{
+(+21)
+}
+
+STRING 136
+// Abilities: A008 (Kill Upon Attack), Name (Name)
+{
+Kill Upon Attack
+}
+
+STRING 143
+// Units: E004 (Sheep Hunter), Name (Name)
+{
+Sheep Hunter
+}
+
+STRING 145
+// Units: E004 (Sheep Hunter), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 146
+// Units: E004 (Sheep Hunter), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 147
+// Units: E004 (Sheep Hunter), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 148
+// Abilities: A00C (Item Rock Golem Summon), EditorSuffix (Editor Suffix)
+{
+()
+}
+
+STRING 149
+// Units: E004 (Sheep Hunter), Propernames (Proper Names)
+{
+Dick Cheney
+}
+
+STRING 150
+// Items: I00C (Professional Summon), Name (Name)
+{
+Professional Summon
+}
+
+STRING 152
+// Items: I00D (Amateur Summon), Name (Name)
+{
+Amateur Summon
+}
+
+STRING 154
+// Items: I00E (Heroic Rocket), Name (Name)
+{
+Heroic Rocket
+}
+
+STRING 156
+// Items: I00F (Amateur Rocket), Name (Name)
+{
+Amateur Rocket
+}
+
+STRING 158
+// Items: I00G (Professional Rocket), Name (Name)
+{
+Professional Rocket
+}
+
+STRING 160
+// Units: n003 (Hunting Dog), Name (Name)
+{
+Hunting Dog
+}
+
+STRING 184
+// Units: u000 (Sheep), Name (Name)
+{
+Sheep
+}
+
+STRING 185
+// Items: I00H (Professional Vision), Name (Name)
+{
+Professional Vision
+}
+
+STRING 186
+// Items: I005 (Heroic Vision), Ubertip (Tooltip - Extended)
+{
+This unit can see invisible units
+}
+
+STRING 187
+// Items: I00I (Amateur Vision), Name (Name)
+{
+Amateur Vision
+}
+
+STRING 188
+// Items: I00H (Professional Vision), Description (Description)
+{
+This unit can see invisible units
+}
+
+STRING 192
+// Abilities: A00D (True Sight), EditorSuffix (Editor Suffix)
+{
+(500)
+}
+
+STRING 193
+// Abilities: A00E (True Sight), EditorSuffix (Editor Suffix)
+{
+(1500)
+}
+
+STRING 194
+// Abilities: A00D (True Sight), Ubertip (Tooltip - Normal - Extended)
+{
+Reveals invisible units with 500 range.
+}
+
+STRING 195
+// Abilities: A00E (True Sight), Ubertip (Tooltip - Normal - Extended)
+{
+Reveals invisible units with 1500 range.
+}
+
+STRING 196
+// Units: n005 (Stealth Sheep), Name (Name)
+{
+Stealth Sheep
+}
+
+STRING 197
+// Items: I00J (Heroic Stealth), Name (Name)
+{
+Heroic Stealth
+}
+
+STRING 198
+// Items: I00J (Heroic Stealth), Description (Description)
+{
+Invisibility, instant fade.
+}
+
+STRING 199
+// Items: I00K (Professional Stealth), Name (Name)
+{
+Professional Stealth
+}
+
+STRING 200
+// Items: I00K (Professional Stealth), Description (Description)
+{
+Invisibility, 1.5 second fade time.
+}
+
+STRING 201
+// Items: I00L (Amateur Stealth), Name (Name)
+{
+Amateur Stealth
+}
+
+STRING 202
+// Items: I00L (Amateur Stealth), Description (Description)
+{
+Invisibility, 3 second fade time.
+}
+
+STRING 203
+// Abilities: A00F (Permanent Invisibility), EditorSuffix (Editor Suffix)
+{
+(3 sec)
+}
+
+STRING 204
+// Abilities: A00G (Permanent Invisibility), EditorSuffix (Editor Suffix)
+{
+(1.5 sec)
+}
+
+STRING 205
+// Abilities: A00H (Permanent Invisibility), EditorSuffix (Editor Suffix)
+{
+(0 sec)
+}
+
+STRING 208
+// Abilities: A00L (Slow Aura), EditorSuffix (Editor Suffix)
+{
+(10%)
+}
+
+STRING 211
+// Abilities: A00M (Slow Aura), EditorSuffix (Editor Suffix)
+{
+(5%)
+}
+
+STRING 212
+// Abilities: A00R (Fast), Name (Name)
+{
+Fast
+}
+
+STRING 217
+// Abilities: A00I (Toggle Leaderboard), Hotkey (Hotkey - Normal)
+{
+Z
+}
+
+STRING 218
+// Abilities: A00I (Toggle Leaderboard), Unhotkey (Hotkey - Turn Off)
+{
+Z
+}
+
+STRING 219
+// Abilities: A00I (Toggle Leaderboard), Name (Name)
+{
+Toggle Leaderboard
+}
+
+STRING 220
+// Abilities: A00I (Toggle Leaderboard), Tip (Tooltip - Normal)
+{
+Toggle Leaderboard - [|cffffcc00Z|r]
+}
+
+STRING 221
+// Abilities: A00I (Toggle Leaderboard), Ubertip (Tooltip - Normal - Extended)
+{
+Hides or shows your leaderboard.
+}
+
+STRING 222
+// Abilities: A00I (Toggle Leaderboard), Unubertip (Tooltip - Turn Off - Extended)
+{
+Hides or shows your leaderboard.
+}
+
+STRING 223
+// Abilities: A00I (Toggle Leaderboard), Untip (Tooltip - Turn Off)
+{
+Toggle Leaderboard - [|cffffcc00Z|r]
+}
+
+STRING 224
+// Buffs/Effects: B001 (Toggle), EditorName (Name (Editor Only))
+{
+Toggle
+}
+
+STRING 225
+// Buffs/Effects: B001 (Toggle), Bufftip (Tooltip)
+{
+Toggle
+}
+
+STRING 226
+// Buffs/Effects: B001 (Toggle), Buffubertip (Tooltip - Extended)
+{
+Toggle Toggle
+}
+
+STRING 227
+// Units: E005 (Warlock), Name (Name)
+{
+Warlock
+}
+
+STRING 228
+// Units: E005 (Warlock), Propernames (Proper Names)
+{
+Archimonde
+}
+
+STRING 229
+// Units: E005 (Warlock), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 230
+// Units: E005 (Warlock), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 231
+// Units: E005 (Warlock), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 232
+// Items: I00M (Professional Link), Name (Name)
+{
+Professional Link
+}
+
+STRING 234
+// Items: I00N (Heroic Link), Name (Name)
+{
+Heroic Link
+}
+
+STRING 236
+// Abilities: A00J (Link), Tip (Tooltip - Normal)
+{
+Link |cffffcc00W|r
+}
+
+STRING 237
+// Abilities: A00J (Link), Ubertip (Tooltip - Normal - Extended)
+{
+LINK
+}
+
+STRING 238
+// Abilities: A00J (Link), Name (Name)
+{
+Link
+}
+
+STRING 243
+// Items: I00O (Professional Slow), Name (Name)
+{
+Professional Slow
+}
+
+STRING 244
+// Items: I00O (Professional Slow), Description (Description)
+{
+10% slow in 250 AOE
+}
+
+STRING 245
+// Items: I00P (Heroic Slow), Name (Name)
+{
+Heroic Slow
+}
+
+STRING 246
+// Items: I00P (Heroic Slow), Description (Description)
+{
+15% slow in 250 AOE
+}
+
+STRING 247
+// Items: I00Q (Amateur Slow), Name (Name)
+{
+Amateur Slow
+}
+
+STRING 248
+// Items: I00Q (Amateur Slow), Description (Description)
+{
+5% slow in 250 AOE
+}
+
+STRING 249
+// Abilities: A00K (Slow Aura), Name (Name)
+{
+Slow Aura
+}
+
+STRING 250
+// Abilities: A00K (Slow Aura), Tip (Tooltip - Normal)
+{
+Slow Aura
+}
+
+STRING 251
+// Abilities: A00K (Slow Aura), EditorSuffix (Editor Suffix)
+{
+(15%)
+}
+
+STRING 252
+// Abilities: A00L (Slow Aura), Name (Name)
+{
+Slow Aura
+}
+
+STRING 253
+// Abilities: A00L (Slow Aura), Tip (Tooltip - Normal)
+{
+Slow Aura
+}
+
+STRING 255
+// Abilities: A00M (Slow Aura), Name (Name)
+{
+Slow Aura
+}
+
+STRING 256
+// Abilities: A00M (Slow Aura), Tip (Tooltip - Normal)
+{
+Slow Aura
+}
+
+STRING 258
+// Buffs/Effects: B002 (), Buffubertip (Tooltip - Extended)
+{
+This unit has reduced movement speed.
+}
+
+STRING 259
+// Buffs/Effects: B002 (), Bufftip (Tooltip)
+{
+Crippled
+}
+
+STRING 260
+// Items: I000 (Professional Damage), Ubertip (Tooltip - Extended)
+{
++100 Damage
+}
+
+STRING 261
+// Items: I001 (Professional Attack Speed), Ubertip (Tooltip - Extended)
+{
++10% Attack Speed
+}
+
+STRING 262
+// Items: I002 (Heroic Damage), Ubertip (Tooltip - Extended)
+{
++300 Damage
+}
+
+STRING 263
+// Items: I003 (Heroic Attack Speed), Ubertip (Tooltip - Extended)
+{
++15% Attack Speed
+}
+
+STRING 272
+// Items: I00E (Heroic Rocket), Description (Description)
+{
+Attacks fire a rocket at the target. 1200 speed.
+}
+
+STRING 273
+// Items: I00E (Heroic Rocket), Ubertip (Tooltip - Extended)
+{
+Attacks fire a rocket at the target. 1200 speed.
+}
+
+STRING 274
+// Items: I00F (Amateur Rocket), Description (Description)
+{
+Attacks launch a rocket at the target. 850 speed.
+}
+
+STRING 275
+// Items: I00F (Amateur Rocket), Ubertip (Tooltip - Extended)
+{
+Attacks launch a rocket at the target. 850 speed.
+}
+
+STRING 276
+// Items: I00G (Professional Rocket), Description (Description)
+{
+Attacks launch a rocket at the target. 1050 speed.
+}
+
+STRING 277
+// Items: I00G (Professional Rocket), Ubertip (Tooltip - Extended)
+{
+Attacks launch a rocket at the target. 1050 speed.
+}
+
+STRING 278
+// Items: I00H (Professional Vision), Ubertip (Tooltip - Extended)
+{
+This unit can see invisible units
+}
+
+STRING 279
+// Items: I00I (Amateur Vision), Description (Description)
+{
+This unit can see invisible units
+}
+
+STRING 280
+// Items: I00I (Amateur Vision), Ubertip (Tooltip - Extended)
+{
+This unit can see invisible units
+}
+
+STRING 281
+// Items: I00J (Heroic Stealth), Ubertip (Tooltip - Extended)
+{
+Invisibility, instant fade.
+}
+
+STRING 282
+// Items: I00K (Professional Stealth), Ubertip (Tooltip - Extended)
+{
+Invisibility, 1.5 second fade time.
+}
+
+STRING 283
+// Items: I00L (Amateur Stealth), Ubertip (Tooltip - Extended)
+{
+Invisibility, 3 second fade time.
+}
+
+STRING 288
+// Items: I00O (Professional Slow), Ubertip (Tooltip - Extended)
+{
+10% slow in 250 AOE
+}
+
+STRING 289
+// Items: I00P (Heroic Slow), Ubertip (Tooltip - Extended)
+{
+15% slow in 250 AOE
+}
+
+STRING 290
+// Items: I00Q (Amateur Slow), Ubertip (Tooltip - Extended)
+{
+5% slow in 250 AOE
+}
+
+STRING 291
+// Units: E006 (Ninja Shepard), Name (Name)
+{
+Ninja Shepard
+}
+
+STRING 292
+// Units: E006 (Ninja Shepard), Propernames (Proper Names)
+{
+Old Mc Donald,Big Bad Wolf,Scruffy,Sheep Dog
+}
+
+STRING 293
+// Units: E006 (Ninja Shepard), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 294
+// Units: E006 (Ninja Shepard), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 295
+// Units: E006 (Ninja Shepard), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 297
+// Items: I00R (Professional Shuriken), Name (Name)
+{
+Professional Shuriken
+}
+
+STRING 299
+// Abilities: A00N (Shepard's Hook), Name (Name)
+{
+Shepard's Hook
+}
+
+STRING 300
+// Abilities: A00N (Shepard's Hook), Tip (Tooltip - Normal)
+{
+|cffffcc00R|relocate
+}
+
+STRING 301
+// Abilities: A00N (Shepard's Hook), Ubertip (Tooltip - Normal - Extended)
+{
+Throw a fast moving missile that will travel up to 1250 range or until it hits a unit. The struck unit will have its position switched with the casting unit.|NIf no unit is struck, the spell will still teleport the caster.|N|N4 second cooldown
+}
+
+STRING 302
+// Abilities: A00N (Shepard's Hook), Researchtip (Tooltip - Learn)
+{
+Learn |cffffcc00R|relocate
+}
+
+STRING 303
+// Abilities: A00N (Shepard's Hook), Researchubertip (Tooltip - Learn - Extended)
+{
+Throw a fast moving missile that will travel up to 1250 range or until it hits a unit. The struck unit will have its position switched with the casting unit.|NIf no unit is struck, the spell will still teleport the caster.|N|N4 second cooldown
+}
+
+STRING 305
+// Items: I00S (Heroic Shuriken), Name (Name)
+{
+Heroic Shuriken
+}
+
+STRING 308
+// Items: I00T (Amateur Shuriken), Name (Name)
+{
+Amateur Shuriken
+}
+
+STRING 312
+// Units: E007 (Frost Wyrm), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 313
+// Units: E007 (Frost Wyrm), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 314
+// Units: E007 (Frost Wyrm), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 323
+// Units: E008 (Infernal), Name (Name)
+{
+Infernal
+}
+
+STRING 324
+// Units: E008 (Infernal), Propernames (Proper Names)
+{
+Bomber Boy
+}
+
+STRING 325
+// Units: E008 (Infernal), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 326
+// Units: E008 (Infernal), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 327
+// Units: E008 (Infernal), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 329
+// Units: h00A (Frost Farm), Name (Name)
+{
+Frost Farm
+}
+
+STRING 330
+// Units: h00A (Frost Farm), Tip (Tooltip - Basic)
+{
+Build Frost|cffffcc00(d)|r Farm
+}
+
+STRING 331
+// Units: h00A (Frost Farm), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 332
+// Units: h00A (Frost Farm), Ubertip (Tooltip - Extended)
+{
+As a normal farm but with the ability to slow down raiders so sheep can escape easier.
+}
+
+STRING 334
+// Items: I00U (Amateur Bomber), Name (Name)
+{
+Amateur Bomber
+}
+
+STRING 337
+// Items: I00V (Heroic Bomber), Name (Name)
+{
+Heroic Bomber
+}
+
+STRING 340
+// Items: I00W (Professional Bomber), Name (Name)
+{
+Professional Bomber
+}
+
+STRING 351
+// Items: I00U (Amateur Bomber), Description (Description)
+{
+50% chance to drop a bomber 300 range away upon attacking.
+}
+
+STRING 352
+// Items: I00U (Amateur Bomber), Ubertip (Tooltip - Extended)
+{
+50% chance to drop a bomber 300 range away upon attacking.
+}
+
+STRING 353
+// Items: I00V (Heroic Bomber), Description (Description)
+{
+50% chance to drop 3 bombers 300 range away upon attacking.
+}
+
+STRING 354
+// Items: I00V (Heroic Bomber), Ubertip (Tooltip - Extended)
+{
+50% chance to drop 3 bombers 300 range away upon attacking.
+}
+
+STRING 355
+// Items: I00W (Professional Bomber), Description (Description)
+{
+50% chance to drop 2 bombers 300 range away upon attacking.
+}
+
+STRING 356
+// Items: I00W (Professional Bomber), Ubertip (Tooltip - Extended)
+{
+50% chance to drop 2 bombers 300 range away upon attacking.
+}
+
+STRING 360
+// Abilities: A00P (Inferno), Name (Name)
+{
+Inferno
+}
+
+STRING 361
+// Abilities: A00P (Inferno), EditorSuffix (Editor Suffix)
+{
+()
+}
+
+STRING 367
+{
+Zoom
+}
+
+STRING 368
+{
+Zoom
+}
+
+STRING 370
+// Items: I008 (Heroic Splash), Description (Description)
+{
++20 damage as splash
+}
+
+STRING 371
+// Items: I008 (Heroic Splash), Ubertip (Tooltip - Extended)
+{
++20 damage as splash
+}
+
+STRING 372
+// Items: I009 (Professional Splash), Description (Description)
+{
++15 damage as splash
+}
+
+STRING 373
+// Items: I009 (Professional Splash), Ubertip (Tooltip - Extended)
+{
++15 damage as splash
+}
+
+STRING 374
+// Items: I00A (Amateur Splash), Description (Description)
+{
++5 damage as splash
+}
+
+STRING 375
+// Items: I00A (Amateur Splash), Ubertip (Tooltip - Extended)
+{
++5 damage as splash
+}
+
+STRING 376
+// Abilities: A009 (Splash), EditorSuffix (Editor Suffix)
+{
+(5)
+}
+
+STRING 377
+// Abilities: A00B (Splash), EditorSuffix (Editor Suffix)
+{
+(20)
+}
+
+STRING 378
+// Abilities: A00A (Splash), EditorSuffix (Editor Suffix)
+{
+(15)
+}
+
+STRING 379
+// Units: E009 (Insane Goblin), Name (Name)
+{
+Insane Goblin
+}
+
+STRING 381
+// Units: E009 (Insane Goblin), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 382
+// Units: E009 (Insane Goblin), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 383
+// Units: E009 (Insane Goblin), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 385
+// Items: I00Y (Heroic Rocket Spray), Name (Name)
+{
+Heroic Rocket Spray
+}
+
+STRING 388
+// Items: I00Z (Professional Rocket Spray), Name (Name)
+{
+Professional Rocket Spray
+}
+
+STRING 390
+// Items: I010 (Amateur Rocket Spray), Description (Description)
+{
+6 rockets
+}
+
+STRING 391
+// Items: I010 (Amateur Rocket Spray), Name (Name)
+{
+Amateur Rocket Spray
+}
+
+STRING 392
+// Items: I010 (Amateur Rocket Spray), Ubertip (Tooltip - Extended)
+{
+6 rockets
+}
+
+STRING 393
+// Units: h00B (Flamethrower), Name (Name)
+{
+Flamethrower
+}
+
+STRING 394
+// Units: h00B (Flamethrower), Tip (Tooltip - Basic)
+{
+Missile
+}
+
+STRING 395
+// Units: h00B (Flamethrower), Ubertip (Tooltip - Extended)
+{
+Missile
+}
+
+STRING 396
+// Abilities: A00Q (Permanent Immolation), EditorSuffix (Editor Suffix)
+{
+(flamethrower)
+}
+
+STRING 402
+// Items: I011 (Heroic Jet Pack), Name (Name)
+{
+Heroic Jet Pack
+}
+
+STRING 405
+// Items: I012 (Professional Jet Pack), Name (Name)
+{
+Professional Jet Pack
+}
+
+STRING 415
+// Buffs/Effects: BHab (), Bufftip (Tooltip)
+{
+Reduced Cooldown
+}
+
+STRING 416
+// Buffs/Effects: BHab (), Buffubertip (Tooltip - Extended)
+{
+Reduced rocket spray cooldown.
+}
+
+STRING 425
+// Units: n006 (Robot), Name (Name)
+{
+Robot
+}
+
+STRING 426
+// Items: I00Y (Heroic Rocket Spray), Description (Description)
+{
+12 rockets.
+}
+
+STRING 427
+// Items: I00Y (Heroic Rocket Spray), Ubertip (Tooltip - Extended)
+{
+12 rockets.
+}
+
+STRING 428
+// Items: I00Z (Professional Rocket Spray), Description (Description)
+{
+9 rockets.
+}
+
+STRING 429
+// Items: I00Z (Professional Rocket Spray), Ubertip (Tooltip - Extended)
+{
+9 rockets.
+}
+
+STRING 430
+// Items: I01D (Heroic Bombing Run), Description (Description)
+{
+20% faster.
+}
+
+STRING 432
+// Items: I01D (Heroic Bombing Run), Ubertip (Tooltip - Extended)
+{
+20% faster.
+}
+
+STRING 433
+// Items: I01C (Professional Bombing Run), Description (Description)
+{
+10% faster.
+}
+
+STRING 435
+// Items: I01C (Professional Bombing Run), Ubertip (Tooltip - Extended)
+{
+10% faster.
+}
+
+STRING 437
+// Abilities: A009 (Splash), Name (Name)
+{
+Splash
+}
+
+STRING 438
+// Abilities: A00A (Splash), Name (Name)
+{
+Splash
+}
+
+STRING 439
+// Abilities: A00B (Splash), Name (Name)
+{
+Splash
+}
+
+STRING 448
+{
+|Cffff0000Game By:
+}
+
+STRING 453
+{
+e
+}
+
+STRING 454
+{
+e
+}
+
+STRING 457
+{
+r
+}
+
+STRING 459
+{
+»»»Game by Madhatters
+}
+
+STRING 473
+// Items: I007 (Heroic Summon), Description (Description)
+{
+5% chance to summon a rock golem upon attacking. Lasts 15 seconds.
+}
+
+STRING 474
+// Items: I007 (Heroic Summon), Ubertip (Tooltip - Extended)
+{
+5% chance to summon a rock golem upon attacking. Lasts 15 seconds.
+}
+
+STRING 475
+// Items: I00C (Professional Summon), Description (Description)
+{
+5% chance to summon a rock golem upon attacking. Lasts 10 seconds.
+}
+
+STRING 476
+// Items: I00C (Professional Summon), Ubertip (Tooltip - Extended)
+{
+5% chance to summon a rock golem upon attacking. Lasts 10 seconds.
+}
+
+STRING 477
+// Items: I00D (Amateur Summon), Description (Description)
+{
+5% chance to summon a rock golem upon attacking. Lasts 5 seconds.
+}
+
+STRING 478
+// Items: I00D (Amateur Summon), Ubertip (Tooltip - Extended)
+{
+5% chance to summon a rock golem upon attacking. Lasts 5 seconds.
+}
+
+STRING 480
+// Units: E009 (Insane Goblin), Propernames (Proper Names)
+{
+Rocket
+}
+
+STRING 483
+{
+Sheep Tag Farm Defense...
+}
+
+STRING 484
+{
+|Cff00ff00STFD
+}
+
+STRING 489
+// Units: E007 (Frost Wyrm), Name (Name)
+{
+Frost Wyrm
+}
+
+STRING 490
+// Units: E007 (Frost Wyrm), Propernames (Proper Names)
+{
+Frosty
+}
+
+STRING 491
+{
+Income:
+}
+
+STRING 492
+{
+Income:
+}
+
+STRING 494
+// Items: I004 (Heroic Icy Charge), Name (Name)
+{
+Heroic Icy Charge
+}
+
+STRING 495
+// Items: I006 (Professional Icy Charge), Name (Name)
+{
+Professional Icy Charge
+}
+
+STRING 496
+{
+«««
+}
+
+STRING 501
+// Buffs/Effects: B000 (), Bufftip (Tooltip)
+{
+Fast
+}
+
+STRING 502
+// Buffs/Effects: B000 (), Buffubertip (Tooltip - Extended)
+{
+This unit is fast due to not being within 1250 range of a unit.
+}
+
+STRING 523
+// Units: E00A (Ballista), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 524
+// Units: E00A (Ballista), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 525
+// Units: E00A (Ballista), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 526
+// Units: E00B (Catapult), Name (Name)
+{
+Catapult
+}
+
+STRING 528
+// Units: E00B (Catapult), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 529
+// Units: E00B (Catapult), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 530
+// Units: E00B (Catapult), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 532
+// Items: I013 (Amateur Siege Weaponry), Name (Name)
+{
+Amateur Siege Weaponry
+}
+
+STRING 535
+// Items: I014 (Heroic Siege Weaponry), Name (Name)
+{
+Heroic Siege Weaponry
+}
+
+STRING 538
+// Items: I015 (Professional Siege Weaponry), Name (Name)
+{
+Professional Siege Weaponry
+}
+
+STRING 542
+// Items: I013 (Amateur Siege Weaponry), Description (Description)
+{
+Glaive: 200 range line damage|nCatapult: 150 area splash
+}
+
+STRING 543
+// Items: I013 (Amateur Siege Weaponry), Ubertip (Tooltip - Extended)
+{
+Glaive: 200 range line damage|nCatapult: 150 area splash
+}
+
+STRING 544
+// Items: I014 (Heroic Siege Weaponry), Description (Description)
+{
+Glaive: 400 range line damage|nCatapult: 200 area splash
+}
+
+STRING 545
+// Items: I014 (Heroic Siege Weaponry), Ubertip (Tooltip - Extended)
+{
+Glaive: 400 range line damage|nCatapult: 200 area splash
+}
+
+STRING 546
+// Items: I015 (Professional Siege Weaponry), Description (Description)
+{
+Glaive: 300 range line damage|nCatapult: 175 area splash
+}
+
+STRING 547
+// Items: I015 (Professional Siege Weaponry), Ubertip (Tooltip - Extended)
+{
+Glaive: 300 range line damage|nCatapult: 175 area splash
+}
+
+STRING 552
+// Units: E00C (Storm Wyrm), Name (Name)
+{
+Storm Wyrm
+}
+
+STRING 553
+// Units: E00C (Storm Wyrm), Propernames (Proper Names)
+{
+Sparky
+}
+
+STRING 554
+// Units: E00C (Storm Wyrm), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 555
+// Units: E00C (Storm Wyrm), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 556
+// Units: E00C (Storm Wyrm), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 558
+// Items: I016 (Amateur Lightning Breath), Name (Name)
+{
+Amateur Lightning Breath
+}
+
+STRING 561
+// Items: I017 (Heroic Lightning Breath), Name (Name)
+{
+Heroic Lightning Breath
+}
+
+STRING 564
+// Items: I018 (Professional Lightning Breath), Name (Name)
+{
+Professional Lightning Breath
+}
+
+STRING 566
+// Abilities: A00S (Permanent Immolation), EditorSuffix (Editor Suffix)
+{
+(stampede)
+}
+
+STRING 567
+// Buffs/Effects: B003 (Stampede), EditorName (Name (Editor Only))
+{
+Stampede
+}
+
+STRING 568
+// Buffs/Effects: B003 (Stampede), Bufftip (Tooltip)
+{
+Stampede
+}
+
+STRING 569
+// Buffs/Effects: B003 (Stampede), Buffubertip (Tooltip - Extended)
+{
+This unit has been trampled
+}
+
+STRING 570
+// Buffs/Effects: B003 (Stampede), EditorSuffix (Editor Suffix)
+{
+(s)
+}
+
+STRING 574
+// Items: I019 (Heroic Stampede), Name (Name)
+{
+Heroic Stampede
+}
+
+STRING 577
+// Items: I01A (Amateur Stampede), Name (Name)
+{
+Amateur Stampede
+}
+
+STRING 580
+// Items: I01B (Professional Stampede), Name (Name)
+{
+Professional Stampede
+}
+
+STRING 589
+// Units: E00D (Druid), Name (Name)
+{
+Druid
+}
+
+STRING 590
+// Units: E00D (Druid), Propernames (Proper Names)
+{
+Malfurion
+}
+
+STRING 591
+// Units: E00D (Druid), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 592
+// Units: E00D (Druid), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 593
+// Units: E00D (Druid), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 596
+// Units: E00E (Flying Machine), Name (Name)
+{
+Flying Machine
+}
+
+STRING 597
+// Units: E00E (Flying Machine), Propernames (Proper Names)
+{
+Orville Wright
+}
+
+STRING 598
+// Units: E00E (Flying Machine), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 599
+// Units: E00E (Flying Machine), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 600
+// Units: E00E (Flying Machine), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 601
+// Units: h00C (Bombing Run), Name (Name)
+{
+Bombing Run
+}
+
+STRING 602
+// Units: h00C (Bombing Run), Tip (Tooltip - Basic)
+{
+Missile
+}
+
+STRING 603
+// Units: h00C (Bombing Run), Ubertip (Tooltip - Extended)
+{
+Missile
+}
+
+STRING 605
+// Items: I01C (Professional Bombing Run), Name (Name)
+{
+Professional Bombing Run
+}
+
+STRING 608
+// Items: I01D (Heroic Bombing Run), Name (Name)
+{
+Heroic Bombing Run
+}
+
+STRING 612
+// Units: E00F (Siege Engine), Name (Name)
+{
+Siege Engine
+}
+
+STRING 614
+// Units: E00F (Siege Engine), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 615
+// Units: E00F (Siege Engine), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 616
+// Units: E00F (Siege Engine), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 618
+// Items: I01E (Heroic Thrust and Rockets), Name (Name)
+{
+Heroic Thrust and Rockets
+}
+
+STRING 621
+// Items: I01F (Professional Thrust and Rockets), Name (Name)
+{
+Professional Thrust and Rockets
+}
+
+STRING 624
+// Items: I01G (Amateur Thrust and Rockets), Name (Name)
+{
+Amateur Thrust and Rockets
+}
+
+STRING 634
+// Units: h00D (Natural Slow), Name (Name)
+{
+Natural Slow
+}
+
+STRING 635
+// Units: h00D (Natural Slow), Tip (Tooltip - Basic)
+{
+Missile
+}
+
+STRING 636
+// Units: h00D (Natural Slow), Ubertip (Tooltip - Extended)
+{
+Missile
+}
+
+STRING 638
+// Items: I01H (Professional Natural Relocation), Name (Name)
+{
+Professional Natural Relocation
+}
+
+STRING 641
+// Items: I01I (Heroic Natural Relocation), Name (Name)
+{
+Heroic Natural Relocation
+}
+
+STRING 644
+// Items: I01J (Amateur Natural Relocation), Name (Name)
+{
+Amateur Natural Relocation
+}
+
+STRING 646
+// Abilities: A00T (Slow Aura), Name (Name)
+{
+Slow Aura
+}
+
+STRING 647
+// Abilities: A00T (Slow Aura), Tip (Tooltip - Normal)
+{
+Slow Aura
+}
+
+STRING 648
+// Abilities: A00T (Slow Aura), EditorSuffix (Editor Suffix)
+{
+(50%)
+}
+
+STRING 649
+// Abilities: A00T (Slow Aura), Tip (Tooltip - Normal)
+{
+Slow Aura
+}
+
+STRING 650
+// Abilities: A00T (Slow Aura), Tip (Tooltip - Normal)
+{
+Slow Aura
+}
+
+STRING 651
+// Buffs/Effects: B004 (), Buffubertip (Tooltip - Extended)
+{
+This unit has reduced movement speed.
+}
+
+STRING 652
+// Buffs/Effects: BHtc (), Bufftip (Tooltip)
+{
+Natural Relocation
+}
+
+STRING 653
+// Units: E00F (Siege Engine), Propernames (Proper Names)
+{
+Tank
+}
+
+STRING 658
+// Items: I01K (Amateur Nature's Grasp), Description (Description)
+{
+500 speed
+}
+
+STRING 659
+// Items: I01K (Amateur Nature's Grasp), Name (Name)
+{
+Amateur Nature's Grasp
+}
+
+STRING 660
+// Items: I01K (Amateur Nature's Grasp), Ubertip (Tooltip - Extended)
+{
+500 speed
+}
+
+STRING 661
+// Items: I01L (Heroic Nature's Grasp), Description (Description)
+{
+650 speed
+}
+
+STRING 662
+// Items: I01L (Heroic Nature's Grasp), Name (Name)
+{
+Heroic Nature's Grasp
+}
+
+STRING 663
+// Items: I01L (Heroic Nature's Grasp), Ubertip (Tooltip - Extended)
+{
+650 speed
+}
+
+STRING 664
+// Items: I01M (Professional Nature's Grasp), Description (Description)
+{
+575 speed
+}
+
+STRING 665
+// Items: I01M (Professional Nature's Grasp), Name (Name)
+{
+Professional Nature's Grasp
+}
+
+STRING 666
+// Items: I01M (Professional Nature's Grasp), Ubertip (Tooltip - Extended)
+{
+575 speed
+}
+
+STRING 717
+// Items: I016 (Amateur Lightning Breath), Description (Description)
+{
+700 range and movement speed, 60 damage.
+}
+
+STRING 718
+// Items: I016 (Amateur Lightning Breath), Ubertip (Tooltip - Extended)
+{
+700 range and movement speed, 60 damage.
+}
+
+STRING 719
+// Items: I017 (Heroic Lightning Breath), Description (Description)
+{
+1000 range and movement speed, 240 damage.
+}
+
+STRING 720
+// Items: I017 (Heroic Lightning Breath), Ubertip (Tooltip - Extended)
+{
+1000 range and movement speed, 240 damage.
+}
+
+STRING 721
+// Items: I018 (Professional Lightning Breath), Description (Description)
+{
+800 range and movement speed, 120 damage.
+}
+
+STRING 722
+// Items: I018 (Professional Lightning Breath), Ubertip (Tooltip - Extended)
+{
+800 range and movement speed, 120 damage.
+}
+
+STRING 731
+// Units: E00A (Ballista), Name (Name)
+{
+Ballista
+}
+
+STRING 732
+// Units: n004 (Peasant), Name (Name)
+{
+Peasant
+}
+
+STRING 733
+// Items: I00M (Professional Link), Description (Description)
+{
+175 AOE explosion, 30% aimed link
+}
+
+STRING 734
+// Items: I00M (Professional Link), Ubertip (Tooltip - Extended)
+{
+175 AOE explosion, 30% aimed link
+}
+
+STRING 735
+// Items: I00N (Heroic Link), Description (Description)
+{
+225 AOE explosion, 40% aimed link
+}
+
+STRING 736
+// Items: I00N (Heroic Link), Ubertip (Tooltip - Extended)
+{
+225 AOE explosion, 40% aimed link
+}
+
+STRING 737
+// Items: I01N (Amateur Link), Description (Description)
+{
+125 AOE explosion, 20% chance of aimed link
+}
+
+STRING 738
+// Items: I01N (Amateur Link), Name (Name)
+{
+Amateur Link
+}
+
+STRING 739
+// Items: I01N (Amateur Link), Ubertip (Tooltip - Extended)
+{
+125 AOE explosion, 20% chance of aimed link
+}
+
+STRING 740
+{
+Shepherd
+}
+
+STRING 741
+// Units: n007 (Treant), Name (Name)
+{
+Treant
+}
+
+STRING 742
+// Units: h00E (Natural Damage), Name (Name)
+{
+Natural Damage
+}
+
+STRING 743
+// Units: h00E (Natural Damage), Tip (Tooltip - Basic)
+{
+Missile
+}
+
+STRING 744
+// Units: h00E (Natural Damage), Ubertip (Tooltip - Extended)
+{
+Missile
+}
+
+STRING 749
+// Abilities: A00U (Natural Relocation Damage), Name (Name)
+{
+Natural Relocation Damage
+}
+
+STRING 750
+// Abilities: A00V (Natural Relocation Slow), Name (Name)
+{
+Natural Relocation Slow
+}
+
+STRING 751
+// Buffs/Effects: BHtc (), Buffubertip (Tooltip - Extended)
+{
+This unit has been hit by Natural Relocation; its movement speed is reduced.
+}
+
+STRING 752
+// Buffs/Effects: B004 (), Bufftip (Tooltip)
+{
+Natural Relocation
+}
+
+STRING 757
+// Items: I01O (Professional Summon Treants), Name (Name)
+{
+Professional Summon Treants
+}
+
+STRING 760
+// Items: I01P (Heroic Summon Treants), Name (Name)
+{
+Heroic Summon Treants
+}
+
+STRING 762
+// Items: I01Q (Amateur Summon Treants), Description (Description)
+{
+Summons 3 treants. Treants last 10 seconds.
+}
+
+STRING 763
+// Items: I01Q (Amateur Summon Treants), Name (Name)
+{
+Amateur Summon Treants
+}
+
+STRING 764
+// Items: I01Q (Amateur Summon Treants), Ubertip (Tooltip - Extended)
+{
+Summons 3 treants. Treants last 10 seconds.
+}
+
+STRING 767
+// Items: I01H (Professional Natural Relocation), Description (Description)
+{
+575 area building destruction|n40% slow|n1 second travel
+}
+
+STRING 768
+// Items: I01H (Professional Natural Relocation), Ubertip (Tooltip - Extended)
+{
+575 area building destruction|n40% slow|n1 second travel
+}
+
+STRING 769
+// Items: I01I (Heroic Natural Relocation), Description (Description)
+{
+650 area building destruction|n50% slow|n.9 second travel
+}
+
+STRING 770
+// Items: I01I (Heroic Natural Relocation), Ubertip (Tooltip - Extended)
+{
+650 area building destruction|n50% slow|n.9 second travel
+}
+
+STRING 771
+// Items: I01J (Amateur Natural Relocation), Description (Description)
+{
+500 area building destruction|n30% slow|n1.1 second travel
+}
+
+STRING 772
+// Items: I01J (Amateur Natural Relocation), Ubertip (Tooltip - Extended)
+{
+500 area building destruction|n30% slow|n1.1 second travel
+}
+
+STRING 773
+// Items: I00R (Professional Shuriken), Description (Description)
+{
+Two shurikens, 120 damage, skinny 8 shape
+}
+
+STRING 774
+// Items: I00R (Professional Shuriken), Ubertip (Tooltip - Extended)
+{
+Two shurikens, 120 damage, skinny 8 shape
+}
+
+STRING 775
+// Items: I00S (Heroic Shuriken), Description (Description)
+{
+3 Shurikens, 120 damage, v pattern
+}
+
+STRING 776
+// Items: I00S (Heroic Shuriken), Ubertip (Tooltip - Extended)
+{
+3 Shurikens, 120 damage, v pattern
+}
+
+STRING 777
+// Items: I00T (Amateur Shuriken), Description (Description)
+{
+2 Shurikens, 60 damage, v shape
+}
+
+STRING 778
+// Items: I00T (Amateur Shuriken), Ubertip (Tooltip - Extended)
+{
+2 Shurikens, 60 damage, v shape
+}
+
+STRING 779
+// Items: I01R (Move Speed), Description (Description)
+{
+This unit is moving 5% faster due to lack of recent farm kills.
+}
+
+STRING 780
+// Items: I01R (Move Speed), Name (Name)
+{
+Move Speed
+}
+
+STRING 781
+// Items: I01R (Move Speed), Ubertip (Tooltip - Extended)
+{
+This unit is moving 5% faster due to lack of recent farm kills.
+}
+
+STRING 782
+// Abilities: A00W (Hero Glow), Name (Name)
+{
+Hero Glow
+}
+
+STRING 803
+// Items: I004 (Heroic Icy Charge), Description (Description)
+{
+1020 speed, 10 second cooldown.
+}
+
+STRING 804
+// Items: I004 (Heroic Icy Charge), Ubertip (Tooltip - Extended)
+{
+1020 speed, 10 second cooldown.
+}
+
+STRING 805
+// Items: I006 (Professional Icy Charge), Description (Description)
+{
+935 speed, 12.5 second cooldown.
+}
+
+STRING 806
+// Items: I006 (Professional Icy Charge), Ubertip (Tooltip - Extended)
+{
+935 speed, 12.5 second cooldown.
+}
+
+STRING 807
+// Items: I01S (Amateur Icy Charge), Description (Description)
+{
+850 speed, 15 second cooldown.
+}
+
+STRING 808
+// Items: I01S (Amateur Icy Charge), Name (Name)
+{
+Amateur Icy Charge
+}
+
+STRING 809
+// Items: I01S (Amateur Icy Charge), Ubertip (Tooltip - Extended)
+{
+850 speed, 15 second cooldown.
+}
+
+STRING 810
+// Items: I01E (Heroic Thrust and Rockets), Description (Description)
+{
+800 Speed Thrust|n12 rockets after thrust
+}
+
+STRING 811
+// Items: I01E (Heroic Thrust and Rockets), Ubertip (Tooltip - Extended)
+{
+800 Speed Thrust|n12 rockets after thrust
+}
+
+STRING 812
+// Items: I01F (Professional Thrust and Rockets), Description (Description)
+{
+700 Speed Thrust|n9 rockets after thrust
+}
+
+STRING 813
+// Items: I01F (Professional Thrust and Rockets), Ubertip (Tooltip - Extended)
+{
+700 Speed Thrust|n9 rockets after thrust
+}
+
+STRING 814
+// Items: I01G (Amateur Thrust and Rockets), Description (Description)
+{
+650 Speed Thrust|n7 rockets after thrust
+}
+
+STRING 815
+// Items: I01G (Amateur Thrust and Rockets), Ubertip (Tooltip - Extended)
+{
+650 Speed Thrust|n7 rockets after thrust
+}
+
+STRING 816
+// Units: E00G (Axemaster), Name (Name)
+{
+Axemaster
+}
+
+STRING 817
+// Units: E00G (Axemaster), Propernames (Proper Names)
+{
+Grom Hellscream
+}
+
+STRING 818
+// Units: E00G (Axemaster), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 819
+// Units: E00G (Axemaster), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 820
+// Units: E00G (Axemaster), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 826
+// Items: I01T (Amateur Leap), Name (Name)
+{
+Amateur Leap
+}
+
+STRING 829
+// Items: I01U (Heroic Leap), Name (Name)
+{
+Heroic Leap
+}
+
+STRING 832
+// Items: I01V (Professional Leap), Name (Name)
+{
+Professional Leap
+}
+
+STRING 834
+// Abilities: A00X (Bladestorm), EditorSuffix (Editor Suffix)
+{
+(m)
+}
+
+STRING 841
+// Items: I01T (Amateur Leap), Description (Description)
+{
+130 area, .9 second travel
+}
+
+STRING 842
+// Items: I01T (Amateur Leap), Ubertip (Tooltip - Extended)
+{
+130 area, .9 second travel
+}
+
+STRING 843
+// Items: I01U (Heroic Leap), Description (Description)
+{
+170 area, .67 second travel
+}
+
+STRING 844
+// Items: I01U (Heroic Leap), Ubertip (Tooltip - Extended)
+{
+170 area, .67 second travel
+}
+
+STRING 845
+// Items: I01V (Professional Leap), Description (Description)
+{
+150 area, .75 second travel
+}
+
+STRING 846
+// Items: I01V (Professional Leap), Ubertip (Tooltip - Extended)
+{
+150 area, .75 second travel
+}
+
+STRING 847
+// Items: I01W (Amateur Bladestorm), Description (Description)
+{
+230 speed, 1 blade/sec
+}
+
+STRING 848
+// Items: I01W (Amateur Bladestorm), Name (Name)
+{
+Amateur Bladestorm
+}
+
+STRING 849
+// Items: I01W (Amateur Bladestorm), Ubertip (Tooltip - Extended)
+{
+230 speed, 1 blade/sec
+}
+
+STRING 850
+// Items: I01X (Heroic Bladestorm), Description (Description)
+{
+300 speed, 3 blades/sec
+}
+
+STRING 851
+// Items: I01X (Heroic Bladestorm), Name (Name)
+{
+Heroic Bladestorm
+}
+
+STRING 852
+// Items: I01X (Heroic Bladestorm), Ubertip (Tooltip - Extended)
+{
+300 speed, 3 blades/sec
+}
+
+STRING 853
+// Items: I01Y (Professional Bladestorm), Description (Description)
+{
+265 speed, 2 blades/sec
+}
+
+STRING 854
+// Items: I01Y (Professional Bladestorm), Name (Name)
+{
+Professional Bladestorm
+}
+
+STRING 855
+// Items: I01Y (Professional Bladestorm), Ubertip (Tooltip - Extended)
+{
+265 speed, 2 blades/sec
+}
+
+STRING 857
+// Items: I01Z (Heroic Mirror Images), Name (Name)
+{
+Heroic Mirror Images
+}
+
+STRING 860
+// Items: I020 (Professional Mirror Images), Name (Name)
+{
+Professional Mirror Images
+}
+
+STRING 862
+// Items: I021 (Amateur Mirror Images), Description (Description)
+{
+Images only attack.
+}
+
+STRING 863
+// Items: I021 (Amateur Mirror Images), Name (Name)
+{
+Amateur Mirror Images
+}
+
+STRING 864
+// Items: I021 (Amateur Mirror Images), Ubertip (Tooltip - Extended)
+{
+Images only attack.
+}
+
+STRING 897
+// Items: I01O (Professional Summon Treants), Description (Description)
+{
+Summons 4 treants. Treants have 100 extra attack and last 5 seconds longer.
+}
+
+STRING 898
+// Items: I01O (Professional Summon Treants), Ubertip (Tooltip - Extended)
+{
+Summons 4 treants. Treants have 100 extra attack and last 5 seconds longer.
+}
+
+STRING 899
+// Items: I01P (Heroic Summon Treants), Description (Description)
+{
+Summons 5 treants. Treants have 300 extra attack and last 10 seconds longer.
+}
+
+STRING 900
+// Items: I01P (Heroic Summon Treants), Ubertip (Tooltip - Extended)
+{
+Summons 5 treants. Treants have 300 extra attack and last 10 seconds longer.
+}
+
+STRING 901
+// Items: I022 (Solo Mode), Description (Description)
+{
+This unit has 25% less mana regeneration.
+}
+
+STRING 902
+// Items: I022 (Solo Mode), Name (Name)
+{
+Solo Mode
+}
+
+STRING 903
+// Items: I022 (Solo Mode), Ubertip (Tooltip - Extended)
+{
+This unit has 25% less mana regeneration.
+}
+
+STRING 905
+// Units: E00A (Ballista), Propernames (Proper Names)
+{
+Inanimate Object
+}
+
+STRING 906
+// Units: E00B (Catapult), Propernames (Proper Names)
+{
+Inanimate Object
+}
+
+STRING 909
+// Items: I01B (Professional Stampede), Description (Description)
+{
+Loses 33 movement speed for every 40 health trampled.
+}
+
+STRING 910
+// Items: I01B (Professional Stampede), Ubertip (Tooltip - Extended)
+{
+Loses 33 movement speed for every 40 health trampled.
+}
+
+STRING 913
+// Units: E00H (Archmage), Name (Name)
+{
+Archmage
+}
+
+STRING 914
+// Units: E00H (Archmage), Propernames (Proper Names)
+{
+Antonidas
+}
+
+STRING 915
+// Units: E00H (Archmage), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 916
+// Units: E00H (Archmage), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 917
+// Units: E00H (Archmage), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 922
+// Items: I023 (Amateur Jet Pack), Description (Description)
+{
+33 degree/sec turn speed
+}
+
+STRING 923
+// Items: I023 (Amateur Jet Pack), Name (Name)
+{
+Amateur Jet Pack
+}
+
+STRING 924
+// Items: I023 (Amateur Jet Pack), Ubertip (Tooltip - Extended)
+{
+33 degree/sec turn speed
+}
+
+STRING 934
+// Units: h00F (Lightning), Name (Name)
+{
+Lightning
+}
+
+STRING 935
+// Units: h00F (Lightning), Tip (Tooltip - Basic)
+{
+Missile
+}
+
+STRING 936
+// Units: h00F (Lightning), Ubertip (Tooltip - Extended)
+{
+Missile
+}
+
+STRING 937
+// Units: h00G (Teleporter), Name (Name)
+{
+Teleporter
+}
+
+STRING 938
+// Units: h00G (Teleporter), Tip (Tooltip - Basic)
+{
+Missile
+}
+
+STRING 939
+// Units: h00G (Teleporter), Ubertip (Tooltip - Extended)
+{
+Missile
+}
+
+STRING 940
+// Units: n008 (Water Elemental), Name (Name)
+{
+Water Elemental
+}
+
+STRING 941
+// Items: I024 (Heroic Water Elemental), Description (Description)
+{
++60 damage as splash
+}
+
+STRING 942
+// Items: I024 (Heroic Water Elemental), Name (Name)
+{
+Heroic Water Elemental
+}
+
+STRING 943
+// Items: I024 (Heroic Water Elemental), Ubertip (Tooltip - Extended)
+{
++60 damage as splash
+}
+
+STRING 944
+// Items: I025 (Professional Water Elemental), Description (Description)
+{
++40 damage as splash
+}
+
+STRING 945
+// Items: I025 (Professional Water Elemental), Name (Name)
+{
+Professional Water Elemental
+}
+
+STRING 946
+// Items: I025 (Professional Water Elemental), Ubertip (Tooltip - Extended)
+{
++40 damage as splash
+}
+
+STRING 947
+// Items: I026 (Amateur Water Elemental), Description (Description)
+{
++30 damage as splash
+}
+
+STRING 948
+// Items: I026 (Amateur Water Elemental), Name (Name)
+{
+Amateur Water Elemental
+}
+
+STRING 949
+// Items: I026 (Amateur Water Elemental), Ubertip (Tooltip - Extended)
+{
++30 damage as splash
+}
+
+STRING 950
+// Items: I027 (Professional Summon Water Elemental), Description (Description)
+{
+1.25 second travel time.|NElementals have 40 splash damage, 10% increased attack speed, and last 5 seconds longer.
+}
+
+STRING 951
+// Items: I027 (Professional Summon Water Elemental), Name (Name)
+{
+Professional Summon Water Elemental
+}
+
+STRING 952
+// Items: I027 (Professional Summon Water Elemental), Ubertip (Tooltip - Extended)
+{
+1.25 second travel time.|NElementals have 40 splash damage, 10% increased attack speed, and last 5 seconds longer.
+}
+
+STRING 953
+// Items: I028 (Heroic Summon Water Elemental), Description (Description)
+{
+1 second travel time.|NElementals have 60 splash damage, 15% increased attack speed, and last 10 seconds longer.
+}
+
+STRING 954
+// Items: I028 (Heroic Summon Water Elemental), Name (Name)
+{
+Heroic Summon Water Elemental
+}
+
+STRING 955
+// Items: I028 (Heroic Summon Water Elemental), Ubertip (Tooltip - Extended)
+{
+1 second travel time.|NElementals have 60 splash damage, 15% increased attack speed, and last 10 seconds longer.
+}
+
+STRING 956
+// Items: I029 (Amateur Summon Water Elemental), Description (Description)
+{
+1.5 second travel time.|NElementals have 30 splash damage, and last 10 seconds.
+}
+
+STRING 957
+// Items: I029 (Amateur Summon Water Elemental), Name (Name)
+{
+Amateur Summon Water Elemental
+}
+
+STRING 958
+// Items: I029 (Amateur Summon Water Elemental), Ubertip (Tooltip - Extended)
+{
+1.5 second travel time.|NElementals have 30 splash damage, and last 10 seconds.
+}
+
+STRING 959
+// Abilities: A010 (Splash), EditorSuffix (Editor Suffix)
+{
+(60)
+}
+
+STRING 960
+// Abilities: A010 (Splash), Name (Name)
+{
+Splash
+}
+
+STRING 961
+// Abilities: A011 (Splash), EditorSuffix (Editor Suffix)
+{
+(40)
+}
+
+STRING 962
+// Abilities: A011 (Splash), Name (Name)
+{
+Splash
+}
+
+STRING 963
+// Abilities: A012 (Splash), EditorSuffix (Editor Suffix)
+{
+(30)
+}
+
+STRING 964
+// Abilities: A012 (Splash), Name (Name)
+{
+Splash
+}
+
+STRING 965
+// Units: h00H (Fb slow), Name (Name)
+{
+Fb slow
+}
+
+STRING 966
+// Units: h00H (Fb slow), Tip (Tooltip - Basic)
+{
+Missile
+}
+
+STRING 967
+// Units: h00H (Fb slow), Ubertip (Tooltip - Extended)
+{
+Missile
+}
+
+STRING 968
+// Abilities: A013 (Frostbolt Slow), Name (Name)
+{
+Frostbolt Slow
+}
+
+STRING 969
+// Buffs/Effects: B004 (), EditorSuffix (Editor Suffix)
+{
+()
+}
+
+STRING 970
+// Items: I02A (Heroic Firebolt), Description (Description)
+{
+850 speed, 5 total firebolts.
+}
+
+STRING 971
+// Items: I02A (Heroic Firebolt), Name (Name)
+{
+Heroic Firebolt
+}
+
+STRING 972
+// Items: I02A (Heroic Firebolt), Ubertip (Tooltip - Extended)
+{
+850 speed, 5 total firebolts.
+}
+
+STRING 973
+// Items: I02B (Amateur Firebolt), Description (Description)
+{
+700 speed, 3 total firebolts.
+}
+
+STRING 974
+// Items: I02B (Amateur Firebolt), Name (Name)
+{
+Amateur Firebolt
+}
+
+STRING 975
+// Items: I02B (Amateur Firebolt), Ubertip (Tooltip - Extended)
+{
+700 speed, 3 total firebolts.
+}
+
+STRING 976
+// Items: I02C (Professional Firebolt), Description (Description)
+{
+775 speed, 4 total firebolts.
+}
+
+STRING 977
+// Items: I02C (Professional Firebolt), Name (Name)
+{
+Professional Firebolt
+}
+
+STRING 978
+// Items: I02C (Professional Firebolt), Ubertip (Tooltip - Extended)
+{
+775 speed, 4 total firebolts.
+}
+
+STRING 980
+// Items: I02D (Heroic Frostbolt Barrage), Name (Name)
+{
+Heroic Frostbolt Barrage
+}
+
+STRING 983
+// Items: I02E (Professional Frostbolt Barrage), Name (Name)
+{
+Professional Frostbolt Barrage
+}
+
+STRING 986
+// Items: I02F (Amateur Frostbolt Barrage), Name (Name)
+{
+Amateur Frostbolt Barrage
+}
+
+STRING 993
+// Items: I02D (Heroic Frostbolt Barrage), Description (Description)
+{
+1 second travel time, 5 frostbolts.
+}
+
+STRING 994
+// Items: I02D (Heroic Frostbolt Barrage), Ubertip (Tooltip - Extended)
+{
+1 second travel time, 5 frostbolts.
+}
+
+STRING 997
+// Items: I02F (Amateur Frostbolt Barrage), Description (Description)
+{
+1.25 second travel time, 3 frostbolts.
+}
+
+STRING 998
+// Items: I02F (Amateur Frostbolt Barrage), Ubertip (Tooltip - Extended)
+{
+1.25 second travel time, 3 frostbolts.
+}
+
+STRING 999
+// Items: I02G (Amateur Boulder), Description (Description)
+{
+1.5 second travel, 250 speed, 5 second chase.
+}
+
+STRING 1000
+// Items: I02G (Amateur Boulder), Name (Name)
+{
+Amateur Boulder
+}
+
+STRING 1001
+// Items: I02G (Amateur Boulder), Ubertip (Tooltip - Extended)
+{
+1.5 second travel, 250 speed, 5 second chase.
+}
+
+STRING 1002
+// Items: I02H (Professional Boulder), Description (Description)
+{
+1.25 second travel, 280 speed, 6 second chase.
+}
+
+STRING 1003
+// Items: I02H (Professional Boulder), Name (Name)
+{
+Professional Boulder
+}
+
+STRING 1004
+// Items: I02H (Professional Boulder), Ubertip (Tooltip - Extended)
+{
+1.25 second travel, 280 speed, 6 second chase.
+}
+
+STRING 1005
+// Items: I02I (Heroic Boulder), Description (Description)
+{
+1 second travel, 310 speed, 7 second chase.
+}
+
+STRING 1006
+// Items: I02I (Heroic Boulder), Name (Name)
+{
+Heroic Boulder
+}
+
+STRING 1007
+// Items: I02I (Heroic Boulder), Ubertip (Tooltip - Extended)
+{
+1 second travel, 310 speed, 7 second chase.
+}
+
+STRING 1011
+// Units: h00S (Improved Aura Farm), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 1012
+// Abilities: A014 (Attack), Name (Name)
+{
+Attack
+}
+
+STRING 1013
+// Abilities: A014 (Attack), Tip (Tooltip - Normal)
+{
+|cffffcc00A|rttack
+}
+
+STRING 1015
+// Units: E00I (Dreadlord), Name (Name)
+{
+Dreadlord
+}
+
+STRING 1016
+// Units: E00I (Dreadlord), Propernames (Proper Names)
+{
+Sparky
+}
+
+STRING 1017
+// Units: E00I (Dreadlord), Tip (Tooltip - Basic)
+{
+|cffffcc00W|rolf
+}
+
+STRING 1018
+// Units: E00I (Dreadlord), Ubertip (Tooltip - Extended)
+{
+Add Player to Wolf Team.
+}
+
+STRING 1019
+// Units: E00I (Dreadlord), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1021
+// Units: n009 (Zombie), Name (Name)
+{
+Zombie
+}
+
+STRING 1022
+// Units: n00A (Large Zombie), Name (Name)
+{
+Large Zombie
+}
+
+STRING 1025
+// Items: I02J (Professional Swarm), Description (Description)
+{
+.67 second travel, 4 zombies, 16 second duration.
+}
+
+STRING 1026
+// Items: I02J (Professional Swarm), Name (Name)
+{
+Professional Swarm
+}
+
+STRING 1027
+// Items: I02J (Professional Swarm), Ubertip (Tooltip - Extended)
+{
+.67 second travel, 4 zombies, 16 second duration.
+}
+
+STRING 1028
+// Items: I02K (Heroic Swarm), Description (Description)
+{
+.62 second travel, 5 zombies, 20 second duration.
+}
+
+STRING 1029
+// Items: I02K (Heroic Swarm), Name (Name)
+{
+Heroic Swarm
+}
+
+STRING 1030
+// Items: I02K (Heroic Swarm), Ubertip (Tooltip - Extended)
+{
+.62 second travel, 5 zombies, 20 second duration.
+}
+
+STRING 1031
+// Items: I02L (Amateur Swarm), Description (Description)
+{
+.7 second travel, 3 zombies, 12 second duration.
+}
+
+STRING 1032
+// Items: I02L (Amateur Swarm), Name (Name)
+{
+Amateur Swarm
+}
+
+STRING 1033
+// Items: I02L (Amateur Swarm), Ubertip (Tooltip - Extended)
+{
+.7 second travel, 3 zombies, 12 second duration.
+}
+
+STRING 1034
+// Items: I011 (Heroic Jet Pack), Description (Description)
+{
+57 degree/sec turn speed
+}
+
+STRING 1035
+// Items: I011 (Heroic Jet Pack), Ubertip (Tooltip - Extended)
+{
+57 degree/sec turn speed
+}
+
+STRING 1036
+// Items: I012 (Professional Jet Pack), Description (Description)
+{
+45 degree/sec turn speed
+}
+
+STRING 1037
+// Items: I012 (Professional Jet Pack), Ubertip (Tooltip - Extended)
+{
+45 degree/sec turn speed
+}
+
+STRING 1038
+// Units: h00I (Research Farm), Name (Name)
+{
+Research Farm
+}
+
+STRING 1039
+// Units: h00I (Research Farm), Tip (Tooltip - Basic)
+{
+Build R|cffffcc00e|rsearch Farm
+}
+
+STRING 1040
+// Units: h00I (Research Farm), Ubertip (Tooltip - Extended)
+{
+A farm that allows you to purchase new farms and such.
+}
+
+STRING 1041
+// Units: h00J (Improved Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 1043
+// Units: h00J (Improved Masonry), Ubertip (Tooltip - Extended)
+{
+Increases the health of your buildings by 25%.|N|N|cffffcc00Upgrades persist through death and continues, but not new games.
+}
+
+STRING 1044
+// Abilities: A014 (Attack), Hotkey (Hotkey - Normal)
+{
+A
+}
+
+STRING 1045
+// Units: h00J (Improved Masonry), Tip (Tooltip - Basic)
+{
+Research Improved Masonry
+}
+
+STRING 1046
+// Units: h00K (Swap Farm), Name (Name)
+{
+Swap Farm
+}
+
+STRING 1047
+// Units: h00K (Swap Farm), Tip (Tooltip - Basic)
+{
+Research Swap Farm
+}
+
+STRING 1050
+// Units: n00B (Non-Stack Translocation Farm), Name (Name)
+{
+Non-Stack Translocation Farm
+}
+
+STRING 1051
+// Units: n00B (Non-Stack Translocation Farm), Tip (Tooltip - Basic)
+{
+Build Non-Stack Translocation Farm - [|cffffcc00S|r]
+}
+
+STRING 1052
+// Units: n00B (Non-Stack Translocation Farm), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 1053
+// Units: n00B (Non-Stack Translocation Farm), Ubertip (Tooltip - Extended)
+{
+Instantly teleports the sheep to the opposite side of the farm.
+}
+
+STRING 1054
+// Units: n00C (Stack Translocation Farm), Name (Name)
+{
+Stack Translocation Farm
+}
+
+STRING 1055
+// Units: n00C (Stack Translocation Farm), Tip (Tooltip - Basic)
+{
+Build Stack Translocation Farm - [|cffffcc00S|r]
+}
+
+STRING 1056
+// Units: n00C (Stack Translocation Farm), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 1057
+// Units: n00C (Stack Translocation Farm), Ubertip (Tooltip - Extended)
+{
+Instantly teleports the sheep to the opposite side of the farm.
+}
+
+STRING 1058
+// Abilities: A015 (Translocation), Name (Name)
+{
+Translocation
+}
+
+STRING 1059
+// Abilities: A015 (Translocation), Tip (Tooltip - Normal)
+{
+Translocation
+}
+
+STRING 1060
+// Abilities: A015 (Translocation), Ubertip (Tooltip - Normal - Extended)
+{
+Translocation
+}
+
+STRING 1061
+// Buffs/Effects: B005 (), Bufftip (Tooltip)
+{
+Translocate
+}
+
+STRING 1062
+// Buffs/Effects: B005 (), Buffubertip (Tooltip - Extended)
+{
+This unit has recently translocated and cannot do so again for some time.
+}
+
+STRING 1063
+// Units: h00L (Displacement Farm), Ubertip (Tooltip - Extended)
+{
+Place on another farm to attempt to shift it a space (64 range) away. If there is no space, the farm is destroyed.
+}
+
+STRING 1064
+// Units: h00L (Displacement Farm), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 1065
+// Units: h00L (Displacement Farm), Name (Name)
+{
+Displacement Farm
+}
+
+STRING 1066
+// Units: h00L (Displacement Farm), Tip (Tooltip - Basic)
+{
+Build Displacement Farm - [|cffffcc00T|r]
+}
+
+STRING 1067
+// Units: h00M (Swap Farm), Ubertip (Tooltip - Extended)
+{
+A farm the size of a sheep that insantly switches the place of your sheep with a nearby unit.
+}
+
+STRING 1068
+// Units: h00M (Swap Farm), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 1069
+// Units: h00M (Swap Farm), Name (Name)
+{
+Swap Farm
+}
+
+STRING 1070
+// Units: h00M (Swap Farm), Tip (Tooltip - Basic)
+{
+Build Swap Farm - |cffffcc00T|
+}
+
+STRING 1071
+// Units: h00K (Swap Farm), Ubertip (Tooltip - Extended)
+{
+Replaces tiny farm, in your sheep's build menu, with swap farm. Swap farm is a tiny farm that swaps the position of your sheep and a unit or missile within 128 range.|N|N|cffffcc00Upgrades persist through death and continues, but not new games.
+}
+
+STRING 1072
+// Units: h00I (Research Farm), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1073
+// Units: h00N (Income Capacity (40)), Name (Name)
+{
+Income Capacity (40)
+}
+
+STRING 1074
+// Units: h00N (Income Capacity (40)), Tip (Tooltip - Basic)
+{
+Research Income Capacity
+}
+
+STRING 1075
+// Units: h00N (Income Capacity (40)), Ubertip (Tooltip - Extended)
+{
+Allows the construction of 10 additional savings farms, for a total of 40 income.|N|N|cffffcc00Upgrades persist through death and continues, but not new games.
+}
+
+STRING 1076
+// Units: h00O (Income Capacity (50)), Name (Name)
+{
+Income Capacity (50)
+}
+
+STRING 1077
+// Units: h00O (Income Capacity (50)), Tip (Tooltip - Basic)
+{
+Research Income Capacity
+}
+
+STRING 1078
+// Units: h00O (Income Capacity (50)), Ubertip (Tooltip - Extended)
+{
+Allows the construction of 10 additional savings farms, for a total of 50 income.|N|N|cffffcc00Upgrades persist through death and continues, but not new games.
+}
+
+STRING 1079
+// Units: h00P (Income Persistence), Name (Name)
+{
+Income Persistence
+}
+
+STRING 1080
+// Units: h00P (Income Persistence), Tip (Tooltip - Basic)
+{
+Research Income Persistence
+}
+
+STRING 1082
+// Units: h00Q (Purchase Continue), Name (Name)
+{
+Purchase Continue
+}
+
+STRING 1083
+// Units: h00Q (Purchase Continue), Tip (Tooltip - Basic)
+{
+Purchase Continue
+}
+
+STRING 1084
+// Units: h00Q (Purchase Continue), Ubertip (Tooltip - Extended)
+{
+Purchase an extra continue.
+}
+
+STRING 1085
+// Units: h00R (Improved Aura Farm), Name (Name)
+{
+Improved Aura Farm
+}
+
+STRING 1086
+// Units: h00R (Improved Aura Farm), Tip (Tooltip - Basic)
+{
+Research Improved Aura Farm
+}
+
+STRING 1087
+// Units: h00R (Improved Aura Farm), Ubertip (Tooltip - Extended)
+{
+Replaces aura farm, in your sheep's build menu, with an improved version. The improved aura farm's auras effect the entire map.|N|N|cffffcc00Upgrades persist through death and continues, but not new games.
+}
+
+STRING 1088
+// Units: h00S (Improved Aura Farm), Name (Name)
+{
+Improved Aura Farm
+}
+
+STRING 1089
+// Units: h00S (Improved Aura Farm), Tip (Tooltip - Basic)
+{
+Build Improved |cffffcc00A|rura Farm
+}
+
+STRING 1090
+// Units: h00S (Improved Aura Farm), Ubertip (Tooltip - Extended)
+{
+As the farm but has a couple auras that increase sheep and farm's HP regeneration rate, movement speed, and more. Auras effect the entire map.
+}
+
+STRING 1091
+// Units: h00T (Translocation Farm), Name (Name)
+{
+Translocation Farm
+}
+
+STRING 1092
+// Units: h00T (Translocation Farm), Tip (Tooltip - Basic)
+{
+Research Translocation Farm
+}
+
+STRING 1095
+// Units: h00U (Hastened Translocation (5)), Tip (Tooltip - Basic)
+{
+Research Hastened Translocation
+}
+
+STRING 1099
+// Units: h00V (Hastened Translocation (2)), Tip (Tooltip - Basic)
+{
+Research Hastened Translocation
+}
+
+STRING 1102
+// Abilities: SCae (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly units' attack speed by 20% and movement speed by 3%.
+}
+
+STRING 1103
+// Abilities: ACua (Unholy Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly units' life regeneration rate by <ACua,DataB1,%>%.
+}
+
+STRING 1104
+// Abilities: S000 (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases all friendly units' attack speed by 20% and movement speed by 3%.
+}
+
+STRING 1105
+// Abilities: S000 (Endurance Aura), EditorSuffix (Editor Suffix)
+{
+(Improved)
+}
+
+STRING 1106
+// Abilities: A016 (Unholy Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases all friendly units' life regeneration rate by <ACua,DataB1,%>%.
+}
+
+STRING 1107
+// Abilities: A016 (Unholy Aura), EditorSuffix (Editor Suffix)
+{
+(Improved)
+}
+
+STRING 1108
+// Abilities: A017 (Devotion Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Gives <ACav,DataA1> additional armor to all friendly units.
+}
+
+STRING 1109
+// Abilities: A017 (Devotion Aura), EditorSuffix (Editor Suffix)
+{
+(Improved)
+}
+
+STRING 1110
+// Units: h00T (Translocation Farm), Ubertip (Tooltip - Extended)
+{
+Replaces stack farm, in your sheep's build menu, with translocation farm. Translocation farm is a regular farm that instantly teleports your sheep to the other side.|N|N8 second cooldown on teleporting.|N|N|cffffcc00Upgrades persist through death and continues, but not new games.
+}
+
+STRING 1111
+// Units: h00U (Hastened Translocation (5)), Name (Name)
+{
+Hastened Translocation (5)
+}
+
+STRING 1112
+// Units: h00U (Hastened Translocation (5)), Ubertip (Tooltip - Extended)
+{
+Reduces the cooldown of translocation by 3 seconds, to 5 seconds.|N|N|cffffcc00Upgrades persist through death and continues, but not new games.
+}
+
+STRING 1113
+// Units: h00V (Hastened Translocation (2)), Name (Name)
+{
+Hastened Translocation (2)
+}
+
+STRING 1114
+// Units: h00V (Hastened Translocation (2)), Ubertip (Tooltip - Extended)
+{
+Reduces the cooldown of translocation by 3 seconds, to 2 seconds.|N|N|cffffcc00Upgrades persist through death and continues, but not new games.
+}
+
+STRING 1118
+// Items: I02E (Professional Frostbolt Barrage), Description (Description)
+{
+1.25 second travel time, 4 frostbolts.
+}
+
+STRING 1119
+// Items: I02E (Professional Frostbolt Barrage), Ubertip (Tooltip - Extended)
+{
+1.25 second travel time, 4 frostbolts.
+}
+
+STRING 1121
+// Items: I01Z (Heroic Mirror Images), Description (Description)
+{
+Images cast leap every 10 seconds. 2 Images.
+}
+
+STRING 1122
+// Items: I01Z (Heroic Mirror Images), Ubertip (Tooltip - Extended)
+{
+Images cast leap every 10 seconds. 2 Images.
+}
+
+STRING 1123
+// Items: I020 (Professional Mirror Images), Description (Description)
+{
+Images cast leap every 7 seconds.
+}
+
+STRING 1124
+// Items: I020 (Professional Mirror Images), Ubertip (Tooltip - Extended)
+{
+Images cast leap every 7 seconds.
+}
+
+STRING 1127
+// Units: h00P (Income Persistence), Ubertip (Tooltip - Extended)
+{
+Upon dying, retain up to 15 extra income (total 30). Upon continuing, retain up to 10 extra income (total 20).|N|N|cffffcc00Upgrades persist through death and continues, but not new games.
+}
+
+STRING 1144
+// Abilities: A014 (Attack), Ubertip (Tooltip - Normal - Extended)
+{
+Kill a farm or save a sheep.
+}
+
+STRING 1145
+// Abilities: A018 (Enable Index 1), Name (Name)
+{
+Enable Index 1
+}
+
+STRING 1146
+// Items: I019 (Heroic Stampede), Description (Description)
+{
+Loses 33 movement speed for every 50 health trampled.
+}
+
+STRING 1147
+// Items: I019 (Heroic Stampede), Ubertip (Tooltip - Extended)
+{
+Loses 33 movement speed for every 50 health trampled.
+}
+
+STRING 1148
+// Items: I01A (Amateur Stampede), Description (Description)
+{
+Loses 33 movement speed for every 30 health trampled.
+}
+
+STRING 1149
+// Items: I01A (Amateur Stampede), Ubertip (Tooltip - Extended)
+{
+Loses 33 movement speed for every 30 health trampled.
+}
+
+STRING 1155
+{
+http://tiny.cc/sheeptag
+}
+
+STRING 1156
+{
+Zoom is set using -zoom xxx
+}
+
+STRING 1157
+{
+The amount of gold you receive every 4 seconds. Up to 15/10 income is preserved after dying/continuing.
+}
+
+STRING 1158
+{
+|Cffff0000Madhatters (w3Madhatters@gmail.com)
+}
+
+STRING 1159
+{
+The Sheep Tag Discord
+}
+
+STRING 1160
+{
+Join it!
+}
+
+STRING 1162
+// Units: E000 (Shepherd), Name (Name)
+{
+Shepherd
+}
+
+STRING 1164
+{
+Discord: tiny.cc/sheeptag
+}
+
